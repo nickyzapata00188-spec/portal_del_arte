@@ -1,1 +1,0 @@
-# portal_del_arte
